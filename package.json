@@ -1,0 +1,24 @@
+{
+  "name": "goal1-test",
+  "version": "1.0.0",
+  "description": "Goal 1 testing sandbox according to Tech Notes doc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BroLi3/goal1-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BroLi3/goal1-test/issues"
+  },
+  "homepage": "https://github.com/BroLi3/goal1-test#readme",
+  "dependencies": {
+    "api": "^4.2.0",
+    "dotenv": "^16.0.0"
+  }
+}
